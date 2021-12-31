@@ -11,8 +11,8 @@
     <input type="password" placeholder="Enter Password" name="psw" required>
     <br>
     <br>
-    <label for="psw-repeat"><b>Password</b></label>
-    <input type="Repeat password" placeholder="Reenter Password" name="psw-repeat" required>
+    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Reenter Password" name="psw-repeat" required>
     <br>
     <button type="submit">Login</button>
     <label>
