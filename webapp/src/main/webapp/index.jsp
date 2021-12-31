@@ -10,6 +10,10 @@
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
     <br>
+    <br>
+    <label for="psw-repeat"><b>Password</b></label>
+    <input type="password" placeholder="Reenter Password" name="psw-repeat" required>
+    <br>
     <button type="submit">Login</button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
