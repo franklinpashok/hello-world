@@ -12,7 +12,7 @@
     <br>
     <br>
     <label for="psw-repeat"><b>Password</b></label>
-    <input type="password" placeholder="Reenter Password" name="psw-repeat" required>
+    <input type="Repeat password" placeholder="Reenter Password" name="psw-repeat" required>
     <br>
     <button type="submit">Login</button>
     <label>
